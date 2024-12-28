@@ -1,1 +1,2 @@
 "First file created" 
+"second line added into the first.txt file" 
